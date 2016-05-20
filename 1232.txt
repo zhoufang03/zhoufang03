@@ -1,1 +1,16 @@
-营业点负责人,营业部助理负责人,仓储管理高级经理,中转场高级经理
+﻿https://github.com/
+远程仓库连接：
+$ ssh-keygen -t rsa -C "youremail@example.com"
+
+推送到远程仓库：
+1)git@github.com:zhoufang03(用户名)/admin1.git
+2）git push origin master
+
+克隆
+1）git clone git@github.com:zhoufang03/aaa1（对象库）.git 
+
+分支
+1）$ git checkout -b dev  创建dev分支，然后切换到dev分支：
+2）git branch    查看当前分支 (分支上add，commit文件)
+3)$ git checkout master 切换到master分支  （查询不到刚在在dev分支上的文件）
+4）git merge dev   把分支合并到当前分支
