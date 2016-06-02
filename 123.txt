@@ -1,4 +1,4 @@
-https://github.com/
+﻿https://github.com/
 远程仓库连接：
 $ ssh-keygen -t rsa -C "youremail@example.com"
 
@@ -14,3 +14,5 @@ $ ssh-keygen -t rsa -C "youremail@example.com"
 2）git branch    查看当前分支 (分支上add，commit文件)
 3)$ git checkout master 切换到master分支  （查询不到刚在在dev分支上的文件）
 4）git merge dev   把分支合并到当前分支
+
+abcn
